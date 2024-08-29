@@ -128,8 +128,9 @@ Example
 Enter your choice=> 7
 ```
 
+
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 Feel free to contribute by opening issues or pull requests.
